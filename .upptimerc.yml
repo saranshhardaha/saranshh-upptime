@@ -6,7 +6,7 @@ sites:
   - name: Saranshh
     url: https://www.saranshh.in
   - name: LofiGrid
-    url: https://www.lofigrid.saranshh.in
+    url: https://lofigrid.saranshh.in/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
